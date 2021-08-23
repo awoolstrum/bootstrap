@@ -1,0 +1,11 @@
+// Custom.scss
+
+// Include any default variable overrides here (though functions won't be available)
+$primary:    #ffc0cb !default;
+$white: #ffc0cb !default;
+
+// Either import all of bootstrap, or pick and choose which to build:
+@import "./bootstrap";
+
+// Then add additional custom code here, if any.
+
